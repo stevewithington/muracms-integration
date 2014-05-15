@@ -1,5 +1,5 @@
 <cfoutput>
-	<cfinclude template="/app3/inc/header.cfm" />
+	<cfinclude template="/inc/header.cfm" />
 
 		<h3>Folder2/index.cfm</h3>
 		<p><em>Folder2/index.cfm stuff goes here</em></p>
@@ -22,5 +22,5 @@
 
 		<p>Cras interdum turpis non cursus placerat. Etiam et massa diam. Suspendisse ut dapibus nibh. Cras at condimentum arcu, pharetra dignissim lorem. Aenean nec molestie massa. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse nec enim lobortis, fringilla dui eu, fermentum lorem. Nulla fringilla, elit ut vehicula ultrices, diam mauris euismod arcu, sed elementum metus nisi nec orci. Nullam mollis mi felis, quis auctor nisi hendrerit nec. Phasellus varius, nibh et feugiat tempus, risus leo fermentum dolor, sed convallis diam tortor vel erat. Maecenas dolor nisl, rhoncus sed facilisis quis, sodales vel urna. Mauris ut velit sagittis, condimentum ligula quis, ullamcorper lorem.</p>
 
-	<cfinclude template="/app3/inc/footer.cfm" />
+	<cfinclude template="/inc/footer.cfm" />
 </cfoutput>

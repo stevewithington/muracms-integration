@@ -3,9 +3,9 @@
 	request.template = ListLast(request.uri, '/');
 
 	thenav = {
-		1: { name: 'Home', link: '/app2/index.cfm' }
-		, 2: { name: 'Page 1', link: '/app2/folder1/index.cfm' }
-		, 3: { name: 'Page 2', link: '/app2/folder2/index.cfm' }
+		1: { name: 'Home', link: '/index.cfm' }
+		, 2: { name: 'Page 1', link: '/folder1/index.cfm' }
+		, 3: { name: 'Page 2', link: '/folder2/index.cfm' }
 	};
 
 	navitems = StructSort(thenav, 'textnocase', 'asc', 'name');
@@ -26,17 +26,17 @@
 	<![endif]-->
 
 	<!-- Latest compiled and minified CSS -->
-	<link rel="stylesheet" href="/app2/assets/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
 
 	<!-- Optional theme -->
-	<link rel="stylesheet" href="/app2/assets/bootstrap/css/bootstrap-theme.min.css">
+	<link rel="stylesheet" href="/assets/bootstrap/css/bootstrap-theme.min.css">
 
 	<!-- Latest compiled and minified JavaScript -->
-	<script src="/app2/assets/bootstrap/js/bootstrap.min.js"></script>
+	<script src="/assets/bootstrap/js/bootstrap.min.js"></script>
 
 	<!-- Custom Overrides -->
-	<link rel="stylesheet" href="/app2/assets/css/simple.css">
-	<script src="/app2/assets/js/simple.js"></script>
+	<link rel="stylesheet" href="/assets/css/simple.css">
+	<script src="/assets/js/simple.js"></script>
 
 </head>
 <body>

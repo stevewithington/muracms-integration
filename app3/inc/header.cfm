@@ -14,17 +14,17 @@
 	<![endif]-->
 
 	<!-- Latest compiled and minified CSS -->
-	<link rel="stylesheet" href="/app3/assets/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
 
 	<!-- Optional theme -->
-	<link rel="stylesheet" href="/app3/assets/bootstrap/css/bootstrap-theme.min.css">
+	<link rel="stylesheet" href="/assets/bootstrap/css/bootstrap-theme.min.css">
 
 	<!-- Latest compiled and minified JavaScript -->
-	<script src="/app3/assets/bootstrap/js/bootstrap.min.js"></script>
+	<script src="/assets/bootstrap/js/bootstrap.min.js"></script>
 
 	<!-- Custom Overrides -->
-	<link rel="stylesheet" href="/app3/assets/css/simple.css">
-	<script src="/app3/assets/js/simple.js"></script>
+	<link rel="stylesheet" href="/assets/css/simple.css">
+	<script src="/assets/js/simple.js"></script>
 
 </head>
 <body>
