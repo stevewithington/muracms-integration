@@ -1,0 +1,28 @@
+/* This is simple.css */
+
+.app3 {
+	clear: both;
+	display: block;
+	float: none;
+	padding: 1em;
+	margin: 0;
+	border: 1px solid black;
+	background-color: #f9f9f9;
+}
+
+.app3 ul.nav-tabs > li:not([class='active']) > a {
+	background-color: #ddd;
+}
+
+.app3 ul.nav-tabs > li:not([class='active']) > a:hover {
+	background-color: #428bca;
+	color: #fff;
+}
+
+.app3 section article {
+	padding: 1em;
+	border: solid 1px #ddd;
+	border-radius: 0 0 4px 4px;
+	border-top: none;
+	background-color: white;
+}
