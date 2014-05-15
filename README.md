@@ -25,18 +25,7 @@ This repository contains code examples used throughout the presentation. Please 
 * display_objects
 	* These are integration examples at a *theme* level
 	* Copy the folders located under `display_objects` and paste into theme's `display_objects` directory
-	* Add the following method to the THEME `eventHandler.cfc`
-	```
-	public any function onApplicationLoad($) {
-		var handler = new display_objects.app3.app3eventHandler();
-		arguments.$.getBean('pluginManager').addEventHandler(handler, $.event('SiteID'));
-	}
-	```
-	* Reload Mura CMS
-	* You can now include any of the applications into Mura CMS using the following syntax:
-		`#$.dspThemeInclude('display_objects/app1/index.cfm')#`
-	* If adding to a Mura content item's Body area via the HTML Editor (CKEditor), use:
-		`[m]$.dspThemeInclude('display_objects/app1/index.cfm')[/m]`
+	* Follow the instructions for each app's README.md file
 
 ## Quick Start Plugins
 Detailed below are some Mura CMS plugins that you can use to get your next application off the ground fast and easy.
