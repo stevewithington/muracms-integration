@@ -1,6 +1,6 @@
 # Instructions for app2
 
-* Copy the following method and paste into the Site's `eventHandler.cfc`
+* Copy the following method and paste into the SITE `eventHandler.cfc`
 ```
 public any function onSite404($, event) {
 	var local = {};
