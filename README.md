@@ -10,7 +10,7 @@ When adding a new CMS to your website or intranet, you might think you need to r
 * Quick-start plugins for your next application
 
 ## Repository Info
-This repository contains code examples used throughout the presentation. Please feel free to submit any questions via the [Issues area](https://github.com/stevewithington/cfobjective-2014/issues).
+This repository contains code examples used throughout the presentation. Please feel free to submit any questions via the [Issues area](https://github.com/stevewithington/muracms-integration/issues).
 
 ## Folders & Files
 * app1
