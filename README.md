@@ -68,6 +68,9 @@ A flexible, open-source eCommerce platform. Use as a Mura CMS plugin, or even st
 ### Other Plugins
 A number of popular plugins can be found at [http://www.getmura.com/downloads/mura-cms-plugins/](http://www.getmura.com/downloads/mura-cms-plugins/) or by searching [Github.com](https://github.com/search?q=Mura&type=Repositories&ref=advsearch&l=ColdFusion). Several of the more popular/useful plugins are highlighted below.
 
+* [MuraModelGlue](https://github.com/stevewithington/MuraModelGlue)
+	* Uses [Model-Glue](http://www.model-glue.com) as its application framework
+	* Intended to be used by experienced ColdFusion/CFML developers and those developers familiar with Model-Glue
 * [MuraUserBridge](https://github.com/blueriver/MuraUserBridge)
 	* Simple plugin template for authenticating users against an external user repository (e.g., Active Directory)
 * [Meld MiniCommerce](https://github.com/meldsolutions/Meld-MiniCommerce)
