@@ -70,6 +70,8 @@ A number of popular plugins can be found at [http://www.getmura.com/downloads/mu
 
 * [MuraUserBridge](https://github.com/blueriver/MuraUserBridge)
 	* Simple plugin template for authenticating users against an external user repository (e.g., Active Directory)
+* [Meld MiniCommerce](https://github.com/meldsolutions/Meld-MiniCommerce)
+	* Provides a core eCommerce kernel for non-standard ecommerce needs
 * [MuraTranslations](https://github.com/blueriver/MuraTranslations)
 	* Manages translations between multiple Mura CMS sites and locales
 * [MuraSolr](https://github.com/blueriver/MuraSolr)
@@ -87,5 +89,7 @@ A number of popular plugins can be found at [http://www.getmura.com/downloads/mu
 * [MuraGoogleCalendar](https://github.com/stevewithington/MuraGoogleCalendar)
 	* Displays events from a public Google Calendar.
 	* Leverages the FullCalendar jQuery plugin
+* [Mura Fuse Guard](https://github.com/blueriver/MuraFuseGuard)
+	* The FuseGuard Web Application Firewall for ColdFusion is a set of code designed to run inside your existing CFML web applications to block, filter, or log potentially malicious requests
 * [MuraPlayer](https://github.com/stevewithington/MuraPlayer)
 	* Wraps the JW Player (v5) for Flash and HTML5 to enable embedding video in a Mura site quickly and easily.
