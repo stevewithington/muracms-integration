@@ -14,7 +14,7 @@ This repository contains code examples used throughout the presentation. Please 
 
 ## Folders & Files
 * original_apps
-	This folder contains the applications in their original, non-Mura state
+This folder contains the applications in their original, non-Mura state
 	* app1
 		* An uber simple example of a `page1.cfm` to `page2.cfm` type of application
 
