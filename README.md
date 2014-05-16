@@ -13,7 +13,7 @@ When adding a new CMS to your website or intranet, you might think you need to r
 This repository contains code examples used throughout the presentation. Please feel free to submit any questions via the [Issues area](https://github.com/stevewithington/muracms-integration/issues).
 
 ## Folders & Files
-* **original_apps/** — This folder contains the applications in their original, non-Mura state
+* **original_apps** — This folder contains the applications in their original, non-Mura state
 	* **app1**
 		* An uber simple example of a `page1.cfm` to `page2.cfm` type of application
 
@@ -23,7 +23,7 @@ This repository contains code examples used throughout the presentation. Please 
 	* **app3**
 		* This application uses an `Application.cfc` file
 
-* **display_objects/**
+* **display_objects**
 	* These are integration examples at a *theme* level
 	* Copy the folders located under `display_objects` and paste into theme's `display_objects` directory
 	* Follow the instructions for each app's README.md file
