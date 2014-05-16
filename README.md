@@ -5,7 +5,6 @@ _Presented by:_ [Steve Withington](http://stephenwithington.com)
 When adding a new CMS to your website or intranet, you might think you need to rewrite your legacy applications. With Mura CMS, it's simple and fast to integrate with existing applications - we'll show you how.
 
 ### In this session:
-* A short overview of Mura CMS
 * Programming options for integrating with your legacy applications
 * Quick-start plugins for your next application
 
